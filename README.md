@@ -1,0 +1,2 @@
+# WordWizardAI
+An NLP model
