@@ -19,6 +19,13 @@ Interactive User Input: After training, users can provide input, and the model g
 Achieved an impressive 88% accuracy during training.
 Real-time word prediction functionality for interactive engagement with users.
 
+## Example usage (in Python):
+input_text = "It was a dark and stormy" .
+predicted_word = predict_next_word(input_text) .
+print(predicted_word) .
+## Future Work
+Further improvement in accuracy by experimenting with more complex architectures.
+Expanding the model to handle larger datasets for enhanced generalization.
 
 
 
